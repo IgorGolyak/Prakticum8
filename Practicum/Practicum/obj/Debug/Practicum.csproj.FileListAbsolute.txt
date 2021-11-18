@@ -1,0 +1,10 @@
+C:\Users\golya\source\repos\Practicum\Practicum\obj\Debug\Practicum.csproj.AssemblyReference.cache
+C:\Users\golya\source\repos\Practicum\Practicum\obj\Debug\Practicum.Form1.resources
+C:\Users\golya\source\repos\Practicum\Practicum\obj\Debug\Practicum.Properties.Resources.resources
+C:\Users\golya\source\repos\Practicum\Practicum\obj\Debug\Practicum.csproj.GenerateResource.cache
+C:\Users\golya\source\repos\Practicum\Practicum\obj\Debug\Practicum.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\Practicum\Practicum\bin\Debug\Practicum.exe.config
+C:\Users\golya\source\repos\Practicum\Practicum\bin\Debug\Practicum.exe
+C:\Users\golya\source\repos\Practicum\Practicum\bin\Debug\Practicum.pdb
+C:\Users\golya\source\repos\Practicum\Practicum\obj\Debug\Practicum.exe
+C:\Users\golya\source\repos\Practicum\Practicum\obj\Debug\Practicum.pdb
